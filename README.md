@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-For testing the code, please run the notebook in the notebook folder. The notebook will be uploaded soon.
+For testing the code, please run the notebook in the notebook folder. 
 
 ## Datasets
 
