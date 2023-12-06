@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-For testing the code, please run the notebook in the notebook folder. 
+For testing the code, you can run the notebook in Google Colab. To use the code in your local machine, use the instructions you find in [Installation](#installation). 
 
 ## Datasets
 
