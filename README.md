@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-For testing the code, you can run the notebook in Google Colab. To use the code in your local machine, use the instructions you find in [Installation](#installation). 
+For testing the code, you can run the notebook in Google Colab. To use the code on your local machine, use the instructions you find in [Installation](#installation). 
 
 ## Datasets
 
@@ -57,7 +57,7 @@ If you use CMfM in your research, please cite the following paper:
 
 For general information on the TACK project, please refer to:
 
-- *Valeria Belloni and Andreas Sjölander and Roberta Ravanelli and Mattia Crespi and Andrea Nascetti* (2020). **TACK PROJECT: TUNNEL AND BRIDGE AUTOMATIC CRACK MONITORING USING DEEP LEARNING AND PHOTOGRAMMETRY**. In:Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLIII-B4-2020, 741–745, https://doi.org/10.5194/isprs-archives-XLIII-B4-2020-741-2020
+- *Valeria Belloni and Andreas Sjölander and Roberta Ravanelli and Mattia Crespi and Andrea Nascetti* (2020). **TACK PROJECT: TUNNEL AND BRIDGE AUTOMATIC CRACK MONITORING USING DEEP LEARNING AND PHOTOGRAMMETRY**. In: Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLIII-B4-2020, 741–745, https://doi.org/10.5194/isprs-archives-XLIII-B4-2020-741-2020
 
 For general information on the use of standard Digital Image Correlation (DIC), please refer to:
 
