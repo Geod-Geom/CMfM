@@ -50,7 +50,7 @@ If you use the datasets in your research, please cite:
 - *Sjölander, Andreas; Belloni, Valeria; Peterson, Viktor; Ledin, Jonatan* (2023), **Dataset to assess the structural performance of cracked reinforced concrete using FEM, DIC and CMfM**, Mendeley Data, V2, doi: 10.17632/z3yc9z84tk.2
 
 ## Citations
- 
+<p align="justify"> 
 If you use CMfM in your research, please cite the following paper:
 
 - *Valeria Belloni and Andreas Sjölander and Roberta Ravanelli and Mattia Crespi and Andrea Nascetti* (2023). **Crack Monitoring from Motion (CMfM): Crack detection and measurement using cameras with non-fixed positions**. In: Automation in Construction, vol 156, https://doi.org/10.1016/j.autcon.2023.105072
@@ -62,6 +62,6 @@ For general information on the TACK project, please refer to:
 For general information on the use of standard Digital Image Correlation (DIC), please refer to:
 
 - *Valeria Belloni and Roberta Ravanelli and Andrea Nascetti and Martina Di Rita and Dimitilla Mattei and Mattia Crespi* (2019). **py2DIC: A New Free and Open Source Software for Displacement and Strain Measurements in the Field of Experimental Mechanics**. In: Sensors 19, 19, 3823, https://doi.org/10.3390/s19183832
-  
+<p>
 ## License
 Code is released for non-commercial and research purposes only. For commercial purposes, please contact the authors.
