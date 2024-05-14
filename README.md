@@ -23,7 +23,6 @@ This work is part of the [TACK project](https://www.tackproject.xyz/).
 - [Datasets](#datasets)
 - [Citations](#citations)   
 - [License](#license)   
-<a name="headers"/>
 
 ## Installation
 - Download Python 3
