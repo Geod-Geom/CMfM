@@ -62,5 +62,6 @@ For general information on the use of standard Digital Image Correlation (DIC), 
 
 - *Valeria Belloni and Roberta Ravanelli and Andrea Nascetti and Martina Di Rita and Dimitilla Mattei and Mattia Crespi* (2019). **py2DIC: A New Free and Open Source Software for Displacement and Strain Measurements in the Field of Experimental Mechanics**. In: Sensors 19, 19, 3823, https://doi.org/10.3390/s19183832
 <p>
+  
 ## License
 Code is released for non-commercial and research purposes only. For commercial purposes, please contact the authors.
