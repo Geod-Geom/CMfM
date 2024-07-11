@@ -21,7 +21,7 @@ This work is part of the [TACK project](https://www.tackproject.xyz/).
 - [Installation](#installation)
 - [Usage](#usage)
 - [Datasets](#datasets)
-- [Citations](#citations)   
+- [References](#references)   
 - [License](#license)   
 
 ## Installation
@@ -48,7 +48,7 @@ If you use the datasets in your research, please cite:
 - *Sjölander, Andreas; Belloni, Valeria; Nascetti, Andrea* (2022), **Dataset to track concrete cracking using DIC with fixed and moving camera**, Mendeley Data, V1, doi: 10.17632/dns97tfdjn.1
 - *Sjölander, Andreas; Belloni, Valeria; Peterson, Viktor; Ledin, Jonatan* (2023), **Dataset to assess the structural performance of cracked reinforced concrete using FEM, DIC and CMfM**, Mendeley Data, V2, doi: 10.17632/z3yc9z84tk.2
 
-## Citations
+## References
 <p align="justify"> 
 If you use CMfM in your research, please cite the following paper:
 
