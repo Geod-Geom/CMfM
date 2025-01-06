@@ -18,25 +18,22 @@ This work is part of the [TACK project](https://www.tackproject.xyz/).
 
 ## Contents  
 
-- [Installation](#installation)
-- [Usage](#usage)
+- [Installation and usage](#installation)
 - [Datasets](#datasets)
 - [References](#references)   
 - [License](#license)   
 
-## Installation
+## :wrench: Installation and usage
+To use the code on your local machine, use the following instructions:
 - Download Python 3
 - Install the packages:
 
 ```
 pip install -r requirements.txt
 ```
+To run the code on Google Colab, you can run the notebook.  
 
-## Usage
-
-For testing the code, you can run the notebook in Google Colab. To use the code on your local machine, use the instructions you find in [Installation](#installation). 
-
-## Datasets
+## :camera: Datasets
 
 Datasets related to the project:
 
@@ -48,7 +45,7 @@ If you use the datasets in your research, please cite:
 - *Sjölander, Andreas; Belloni, Valeria; Nascetti, Andrea* (2022), **Dataset to track concrete cracking using DIC with fixed and moving camera**, Mendeley Data, V1, doi: 10.17632/dns97tfdjn.1
 - *Sjölander, Andreas; Belloni, Valeria; Peterson, Viktor; Ledin, Jonatan* (2023), **Dataset to assess the structural performance of cracked reinforced concrete using FEM, DIC and CMfM**, Mendeley Data, V2, doi: 10.17632/z3yc9z84tk.2
 
-## References
+## :pushpin: References
 <p align="justify"> 
 If you use CMfM in your research, please cite the following paper:
 
@@ -63,5 +60,11 @@ For general information on the use of standard Digital Image Correlation (DIC), 
 - *Valeria Belloni and Roberta Ravanelli and Andrea Nascetti and Martina Di Rita and Dimitilla Mattei and Mattia Crespi* (2019). **py2DIC: A New Free and Open Source Software for Displacement and Strain Measurements in the Field of Experimental Mechanics**. In: Sensors 19, 19, 3823, https://doi.org/10.3390/s19183832
 <p>
   
-## License
-Code is released for non-commercial and research purposes only. For commercial purposes, please contact the authors.
+## :email: License
+Code is released for non-commercial and research purposes only. For commercial purposes, please get in touch with the authors.
+
+## :question: Contact info
+
+<p align="justify">
+To contribute or ask for information contact valeria.belloni@uniroma1.it.
+</p>
